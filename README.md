@@ -1,95 +1,87 @@
-<div align="center">
+<h1 align="center">👋 Hi! I'm Edwin Rafael Cera Romero</h1>
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2A5B,50:1D4ED8,100:38BDF8&height=190&section=header&text=Hi!%20I'm%20Edwin&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Student%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
-
-<!-- Dynamic Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&lines=Building+projects+with+Python+%26+Web+Tech;Exploring+AWS+Cloud+%26+Serverless+Architectures;Learning+AI+%26+Leveling+Up+Every+Day;Always+learning.+Always+building." alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/EdwinCera0402?style=for-the-badge&logo=github&label=Followers&color=0B2A5B)](https://github.com/EdwinCera0402)
-[![GitHub Stars](https://img.shields.io/github/stars/EdwinCera0402?style=for-the-badge&logo=star&label=Stars&color=1D4ED8)](https://github.com/EdwinCera0402)
-[![Location](https://img.shields.io/badge/Location-Barranquilla%2C%20CO-2563EB?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
-</div>
-
----
-
-### 🚀 About Me
-
-> *"Always learning. Always building."*
-
-I am a **Software Development student** passionate about turning ideas into real, functional solutions through code. Right now, I am sharpening my skills in **Python**, **web & backend development**, **cloud infrastructure on AWS**, and **Artificial Intelligence**, while building hands-on projects to grow a little every single day.
-
-* 🎓 **Education:** Software Development Student
-* 🐍 **Core Focus:** Python, clean code, and practical problem-solving
-* ☁️ **Cloud & Infra:** Hands-on experience with AWS (`EC2`, `S3`, `Lambda`, `DynamoDB`) and Linux/virtualized environments
-* 🤖 **Interests:** Artificial Intelligence, automation, and scalable software
-
----
-
-### 🛠️ Tech Stack & Cloud Tools
-
-#### Languages & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <img src="https://github.com/EdwinCera0402.png" width="160" alt="Photo of Edwin Rafael Cera Romero" />
 </p>
 
-#### Databases, Cloud (AWS) & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<h3 align="center">Software Development Student · Universidad de la Costa (CUC) 🎓</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Universidad%20de%20la%20Costa%20(CUC)-0b2a5b?style=for-the-badge" alt="CUC" />
+  <img src="https://img.shields.io/badge/Semester-2-2563eb?style=for-the-badge" alt="Semester 2" />
+  <img src="https://img.shields.io/badge/Colombia-Atl%C3%A1ntico-f59e0b?style=for-the-badge" alt="Atlántico, Colombia" />
 </p>
 
 ---
 
-### 📚 Currently & My Goal
+## 🎓 Institutional information
 
-| 🔥 Right Now | 🎯 My Goal |
-| :--- | :--- |
-| 🐍 Leveling up my **Python** skills & building practical apps | 🚀 Keep learning consistently without losing momentum |
-| ☁️ Experimenting with **AWS** cloud services & serverless APIs | 🛠️ Turn ideas into real, well-structured projects |
-| 💻 Shipping full-stack & web projects with clean workflows | 🧠 Grow steadily in **Software Development** and **AI** |
-| 🧠 Exploring **Artificial Intelligence** concepts and tools | 🤝 Collaborate, share knowledge, and build impactful tech |
-
----
-
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EdwinCera0402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=60A5FA" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinCera0402&theme=tokyonight&hide_border=true&background=0B132B&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" height="165" alt="GitHub Streak" />
-
-</div>
+| | |
+|---|---|
+| **Name** | Edwin Rafael Cera Romero |
+| **University** | Universidad de la Costa (CUC) |
+| **Program** | Professional Technical Degree in Software Development (*Técnico Profesional en Desarrollo de Software*) |
+| **Semester** | 2nd semester |
+| **Institutional email** | ecerar@cuc.edu.co |
+| **GitHub** | [@EdwinCera0402](https://github.com/EdwinCera0402) |
 
 ---
 
-### ✍️ Daily Dev Quote
+## 🙋‍♂️ About me
 
-<div align="center">
+I'm a student of the **Professional Technical Degree in Software Development**, and I like learning by building real things. I'm just starting out in web development and the cloud, and I'm motivated by seeing an idea go from a sketch to a page anyone can open from the internet.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+- 🌱 Right now I'm learning **Next.js, TypeScript and AWS services**.
+- 🤝 I enjoy working in a team using branches, pull requests and good Git practices.
+- 🎯 My goal is to keep growing as a developer and work on technology projects.
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0B2A5B&height=110&section=footer" width="100%" />
+## 🚀 Featured project: MiTiendaSmart
 
-</div>
+A web application (SaaS) to manage inventory for small shops. Users can **create, view, edit and delete products** and see the value of their inventory in real time.
+
+- 🌐 Website: [bpds-mitiendasmart.tech](https://bpds-mitiendasmart.tech)
+- 💻 Repository: [duxsamuel/mi-tienda-smart](https://github.com/duxsamuel/mi-tienda-smart)
+- 🧩 **My part:** the **AWS Lambda + DynamoDB** backend (GET, POST, PUT and DELETE), the `api.ts` file that connects the page to the cloud, the shared `Producto` type and the global styles.
+- 👥 We worked as a team with Samuel, Nicolás and Breitner, using branches by feature and pull requests into `prod`.
+
+**Other projects:** a CRUD to-do list built with Next.js in class, and my content channel (below).
+
+---
+
+## 🛠️ Technologies I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+---
+
+## ⚽ Interests and hobbies
+
+- ⚽ **Football:** I love watching it, analyzing it and talking tactics.
+- 💪 **Gym:** training and tracking my physical progress.
+- 🎬 **Content creation:** I run a Spanish-language channel about AI-made content on YouTube and TikTok (RelataIA).
+- 🌎 **English:** I'm studying it to open more doors in tech.
+
+---
+
+## 📫 Contact
+
+- 📧 Institutional email: **YOUR_EMAIL@cuc.edu.co**
+- 🐙 GitHub: [@EdwinCera0402](https://github.com/EdwinCera0402)
+
+<p align="center">
+  <sub>⭐ Thanks for visiting my profile. I keep learning every day!</sub>
+</p>
+
+
